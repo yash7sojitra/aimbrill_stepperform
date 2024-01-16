@@ -1,0 +1,7 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.app {
+  @apply flex justify-center items-center flex-col max-w-7xl mx-auto sm:px-8 px-6 lg:px-0;
+}

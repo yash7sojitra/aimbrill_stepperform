@@ -1,0 +1,11 @@
+# Environment variables
+.env
+
+# Dependency directories
+node_modules
+.next/
+
+# Generated files
+dist
+build
+out
